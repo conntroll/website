@@ -113,21 +113,21 @@ fullversion = "v1.15.6"
 version = "v1.15"
 githubbranch = "v1.15.6"
 docsbranch = "release-1.15"
-url = "https://v1-15.docs.k0s.io"
+url = "https://v1-15.k0s.io"
 
 [[params.versions]]
 fullversion = "v1.14.9"
 version = "v1.14"
 githubbranch = "v1.14.9"
 docsbranch = "release-1.14"
-url = "https://v1-14.docs.k0s.io"
+url = "https://v1-14.k0s.io"
 
 [[params.versions]]
 fullversion = "v1.13.12"
 version = "v1.13"
 githubbranch = "v1.13.12"
 docsbranch = "release-1.13"
-url = "https://v1-13.docs.k0s.io"
+url = "https://v1-13.k0s.io"
 
 # Language definitions.
 
