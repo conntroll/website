@@ -1,4 +1,4 @@
-baseURL = "https://k0s.io"
+baseURL = "https://k0s.io/1.17"
 title = "Kubernetes"
 
 defaultContentLanguage = "en"
@@ -73,7 +73,7 @@ version = "v1.17"
 githubbranch = "master"
 docsbranch = "master"
 deprecated = false
-currentUrl = "https://k0s.io/docs/home/"
+currentUrl = "https://k0s.io/1.17/docs/home/"
 nextUrl = "https://k0s-io-vnext-staging.netlify.com/"
 githubWebsiteRepo = "github.com/kubernetes/website"
 githubWebsiteRaw = "raw.githubusercontent.com/kubernetes/website"
@@ -88,7 +88,7 @@ fullversion = "v1.17.0"
 version = "v1.17"
 githubbranch = "v1.17.0"
 docsbranch = "release-1.17"
-url = "https://k0s.io"
+url = "https://k0s.io/1.17"
 
 [params.pushAssets]
 css = [
@@ -106,28 +106,28 @@ fullversion = "v1.16.3"
 version = "v1.16"
 githubbranch = "v1.16.3"
 docsbranch = "release-1.16"
-url = "https://v1-16.docs.kubernetes.io"
+url = "https://k0s.io/1.16"
 
 [[params.versions]]
 fullversion = "v1.15.6"
 version = "v1.15"
 githubbranch = "v1.15.6"
 docsbranch = "release-1.15"
-url = "https://v1-15.k0s.io"
+url = "https://k0s.io/1.15"
 
 [[params.versions]]
 fullversion = "v1.14.9"
 version = "v1.14"
 githubbranch = "v1.14.9"
 docsbranch = "release-1.14"
-url = "https://v1-14.k0s.io"
+url = "https://k0s.io/1.14"
 
 [[params.versions]]
 fullversion = "v1.13.12"
 version = "v1.13"
 githubbranch = "v1.13.12"
 docsbranch = "release-1.13"
-url = "https://v1-13.k0s.io"
+url = "https://k0s.io/1.13"
 
 # Language definitions.
 
